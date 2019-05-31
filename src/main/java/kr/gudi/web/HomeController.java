@@ -1,4 +1,4 @@
-package com.K.HJ;
+package kr.gudi.web;
 
 import java.util.HashMap;
 import java.util.List;
